@@ -1,1 +1,0 @@
-export default function ScamScannerPage() { return <div>ScamScannerPage</div>; }
